@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Metadata & Media Extractor",
+  "description": "Extract comprehensive YouTube video metadata, clean timestamped captions/transcripts, and high-quality video or audio files with yt-dlp and FastAPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
